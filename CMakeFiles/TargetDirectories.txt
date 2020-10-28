@@ -1,0 +1,3 @@
+/home/pavel/Рабочий стол/AK/CMakeFiles/rebuild_cache.dir
+/home/pavel/Рабочий стол/AK/CMakeFiles/edit_cache.dir
+/home/pavel/Рабочий стол/AK/CMakeFiles/main.dir
